@@ -1,0 +1,9 @@
+{
+	"index.html": {
+		"resources": [
+			"京东家电 沸腾五一_files/wxmoment.min.js",
+			"京东家电 沸腾五一_files/main.js",
+			"京东家电 沸腾五一_files/style.css"
+		]
+	}
+}
